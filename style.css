@@ -1,0 +1,25 @@
+.container{
+padding: 20px;
+background-color: rgb(247, 218, 181);
+border: 10px beige solid;
+align-items: center;
+}
+
+h1{
+    color: whitesmoke;
+    background-color: rgb(104, 64, 37);
+}
+
+p{
+    color: #FAF8F1;
+    background-color: #C58940;
+}
+
+#btn {
+    color: #FAF8F1;
+    background-color: #c29f70;
+    border: 10px beige solid;
+ 
+}
+
+
